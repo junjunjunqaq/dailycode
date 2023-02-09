@@ -1,0 +1,4 @@
+﻿  课程设计.c
+E:\C++\.vscode\课程设计\课程设计.c(169): warning C4715: “ProvinceCode”: 不是所有的控件路径都返回值
+E:\C++\.vscode\课程设计\课程设计.c(190): warning C4715: “CityCode”: 不是所有的控件路径都返回值
+  课程设计.vcxproj -> E:\C++\.vscode\课程设计\x64\Debug\课程设计.exe

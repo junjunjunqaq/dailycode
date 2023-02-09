@@ -1,0 +1,4 @@
+﻿  8.19.c
+E:\C++\.vscode\Project2\8.19.c(14,31): warning C4090: “函数”: 不同的“const”限定符
+E:\C++\.vscode\Project2\8.19.c(14,31): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+  Project2.vcxproj -> E:\C++\.vscode\Project2\x64\Debug\Project2.exe

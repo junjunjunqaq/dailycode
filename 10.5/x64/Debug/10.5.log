@@ -1,0 +1,3 @@
+﻿  10.5.c
+E:\C++\.vscode\10.5\10.5.c(17,71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  10.5.vcxproj -> E:\C++\.vscode\10.5\x64\Debug\10.5.exe

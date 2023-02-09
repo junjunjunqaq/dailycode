@@ -1,0 +1,4 @@
+﻿  9.12.c
+E:\C++\.vscode\9.12\9.12.c(22,46): warning C4474: printf: 格式字符串中传递的参数太多
+E:\C++\.vscode\9.12\9.12.c(22,46): message : 占位符和其参数预计 0 可变参数，但提供的却是 4 参数
+  9.12.vcxproj -> E:\C++\.vscode\9.12\x64\Debug\9.12.exe

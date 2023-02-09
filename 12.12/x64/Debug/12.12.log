@@ -1,0 +1,4 @@
+﻿  12.12.c
+E:\C++\.vscode\12.12\12.12.c(12,55): warning C4090: “函数”: 不同的“const”限定符
+E:\C++\.vscode\12.12\12.12.c(12,55): warning C4113: “int (__cdecl *)(int *,int *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+  12.12.vcxproj -> E:\C++\.vscode\12.12\x64\Debug\12.12.exe

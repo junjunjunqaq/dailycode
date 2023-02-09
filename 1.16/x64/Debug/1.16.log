@@ -1,0 +1,4 @@
+﻿  1.16.c
+E:\C++\.vscode\1.16未解决\1.16.c(26,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++\.vscode\1.16未解决\1.16.c(27,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  1.16.vcxproj -> E:\C++\.vscode\1.16未解决\x64\Debug\1.16.exe
